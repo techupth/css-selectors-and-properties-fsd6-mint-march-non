@@ -6,6 +6,6 @@
 .registration-form button{
   width: 120px;
   height: 36px;
-  outline: lightgrey;
+  border-color: lightgrey;
   background-color: khaki;
 }
